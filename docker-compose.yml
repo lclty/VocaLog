@@ -1,0 +1,23 @@
+version: '3'
+services:
+  # 后端服务
+  backend:
+    build: ./backend
+    container_name: vocalog-backend
+    restart: always
+    ports:
+      - "5000:5000"
+    volumes:
+      # 挂载数据库和 singes.txt，保证数据持久化到你同学的电脑上
+      - ./backend/singers.txt:/app/singers.txt
+      - ./backend/vocalog.db:/app/vocalog.db
+
+  # 前端服务
+  frontend:
+    build: ./frontend
+    container_name: vocalog-frontend
+    restart: always
+    ports:
+      - "8080:80" # 访问 localhost:8080
+    depends_on:
+      - backend

@@ -1,0 +1,14 @@
+洛天依,Luo Tianyi,(CHN,JPN),{CHN:[V|3|萌],[V|4|凝],[V|5|婉],[ACE|1|Verse23],[ACE|1|Verse23B],[XS|3|洛天依]},{JPN:[V|4|Normal],[V|4|Sweet]},66CCFF
+言和,Yan He,(CHN),{CHN:[V|3|清],[V|5|沐],[ACE|1|Verse23]},00FFCC
+乐正绫,Yuezheng Ling,(CHN),{CHN:[V|3|炽],[V|5|幽],[ACE|1|Verse23]},EE0000
+乐正龙牙,Yuezheng Longya,(CHN),{CHN:[V|4|],[ACE|1|Verse23]},006666
+徵羽摩柯,Zhiyu Moke,(CHN),{CHN:[V|4|],[ACE|1|Verse23B]},0080FF
+墨清弦,Mo Qingxian,(CHN),{CHN:[V|4|],[ACE|1|Verse23B]},FFFF00
+星尘,Stardust,(CHN),{CHN:[V|4|],[SV|R2S1|Infinity AI],[SV|R2S1|Minus Standard],[SV|R2S1|Minus AI],[SV|R2S2|Minus AI]},9999FF
+赤羽,Chi Yu,(CHN),{CHN:[SV|R1|],[SV|R2S1|Standard],[SV|R2S2|AI]},FF4004
+海伊,Hai Yi,(CHN),{CHN:[UT|1|],[SV|R1|Standard],[SV|R2S1|Standard],[SV|R2S1|AI],[SV|R2S2|AI]},3399FF
+诗岸,Shi An,(CHN),{CHN:[SV|R1|],[SV|R2S1|Standard],[SV|R2S2|AI]},F6BE71
+苍穹,Cang Qiong,(CHN),{CHN:[UT|1|],[SV|R1|Standard],[SV|R2S1|Standard],[SV|R2S2|AI]},D0EEEE
+牧心,Mu Xin,(CHN),{CHN:[SV|R2S1|Standard],[SV|R2S1|AI],[SV|R2S2|AI]},31395B
+心华,Xin Hua,(CHN,JPN),{CHN:[V|3|],[V|4|]},{JPN:[V|4|]},EE82EE
+初音未来,Hatsune Miku,(JPN,ENG,CHN),{JPN:[V|2|Original],[V|2|Append Sweet],[V|2|Append Dark],[V|2|Append Soft],[V|2|Append Light],[V|2|Append Vivid],[V|2|Append Solid],[V|3|Original],[V|3|Sweet],[V|3|Dark],[V|3|Soft],[V|3|Solid],[V|4|X Original],[V|4|X Sweet],[V|4|X Dark],[V|4|X Soft],[V|4|X Solid],[PS|E|Original DB+],[PS|E|Soft DB+],[PS|E|Whisper DB+],[PS|N|Original DB++],[PS|N|Dark++],[PS|N|Whisper++],[V|AI|]},{ENG:[V|3|],[V|4|]},{CHN:[V|4|C]},39C5BB
